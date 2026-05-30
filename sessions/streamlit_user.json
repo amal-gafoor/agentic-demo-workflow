@@ -1,0 +1,32 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "i am working in a corporate company, so is it perfect for me"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the black Leather Finish Case is perfect for a corporate setting with its professional premium look. It will complement your formal work style while protecting your phone."
+    },
+    {
+      "role": "user",
+      "content": "ok i want to purchase"
+    },
+    {
+      "role": "assistant",
+      "content": "\nPlease fill the order details below:\n\nNAME:\nADDRESS:\nCITY:\nDISTRICT:\nSTATE:\nPINCODE:\nNUMBER:\n\nPHONE MODEL:\nPRODUCT:\nCOLOUR:\n"
+    },
+    {
+      "role": "user",
+      "content": "NAME: Amal ADDRESS: House No 10 CITY: Calicut DISTRICT: Kozhikode STATE: Kerala PINCODE: 673121 NUMBER: 9876543210 PHONE MODEL: motorola PRODUCT: leather COLOUR: Black"
+    },
+    {
+      "role": "assistant",
+      "content": "\nPlease fill the order details below:\n\nNAME:\nADDRESS:\nCITY:\nDISTRICT:\nSTATE:\nPINCODE:\nNUMBER:\n\nPHONE MODEL:\nPRODUCT:\nCOLOUR:\n"
+    }
+  ],
+  "order": {
+    "state": "idle",
+    "data": {}
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "conversation": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hloo do you have leather iphone case and it it two availabe one for my friend",
+        "time": 1780115706.9505322
+      },
+      {
+        "role": "assistant",
+        "content": "We have the Apple Leather Finish Case available for iPhone users, priced at $45, with features like premium leather texture and scratch-resistant exterior. However, I couldn't find information on the current stock level, so I recommend contacting us to check availability if you'd like to purchase two cases.",
+        "time": 1780115706.950536
+      },
+      {
+        "role": "user",
+        "content": "do you have iphone leather case actually two needed one for my front also",
+        "time": 1780123780.8530576
+      },
+      {
+        "role": "assistant",
+        "content": "I'm sorry, but our Apple Leather Finish Case is currently out of stock. Unfortunately, our current shipping policy doesn't provide information on restocking, but I can let you know that we don't have any leather iPhone cases available for purchase at this time.",
+        "time": 1780123780.8530576
+      },
+      {
+        "role": "user",
+        "content": "what about any other standared case",
+        "time": 1780123937.6286016
+      },
+      {
+        "role": "assistant",
+        "content": "We have several standard iPhone case options available, including the Apple Silicone Case for $29, Apple Rugged Armor Case for $39, and Apple Wallet Case for $49. We currently have 4, 3, and 2 units in stock, respectively, so you can purchase two cases from our available options.",
+        "time": 1780123937.6286016
+      }
+    ]
+  },
+  "session": {
+    "order_state": "idle",
+    "order_data": {
+      "product": null,
+      "quantity": null,
+      "template": null
+    },
+    "last_active": 1780123937.6286016
+  },
+  "scratchpad": {
+    "current_run": []
+  }
+}
