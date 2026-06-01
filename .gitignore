@@ -9,3 +9,7 @@ db.sqlite3
 media/
 staticfiles/
 .DS_Store
+sessions
+logs/
+*.log
+repomix-output.xml

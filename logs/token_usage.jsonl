@@ -245,3 +245,11 @@
 {"timestamp": "2026-05-30 06:52:16.503091", "user_id": "test_user", "stage": "react_agent", "latency_ms": 508.45, "prompt_tokens": 827, "completion_tokens": 60, "total_tokens": 887}
 {"timestamp": "2026-05-30 06:52:17.013415", "user_id": "test_user", "stage": "compress", "latency_ms": 262.86, "prompt_tokens": 278, "completion_tokens": 32, "total_tokens": 310}
 {"timestamp": "2026-05-30 06:52:17.628601", "user_id": "test_user", "stage": "react_agent", "latency_ms": 613.95, "prompt_tokens": 953, "completion_tokens": 91, "total_tokens": 1044}
+{"timestamp": "2026-05-30 07:20:57.176534", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 646.1, "prompt_tokens": 334, "completion_tokens": 55, "total_tokens": 389}
+{"timestamp": "2026-05-30 07:20:58.053346", "user_id": "test_user2", "stage": "compress", "latency_ms": 343.25, "prompt_tokens": 260, "completion_tokens": 64, "total_tokens": 324}
+{"timestamp": "2026-05-30 07:20:58.561250", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 505.28, "prompt_tokens": 487, "completion_tokens": 87, "total_tokens": 574}
+{"timestamp": "2026-05-30 07:20:59.280245", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 715.15, "prompt_tokens": 761, "completion_tokens": 98, "total_tokens": 859}
+{"timestamp": "2026-05-30 07:21:38.501774", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 579.63, "prompt_tokens": 402, "completion_tokens": 44, "total_tokens": 446}
+{"timestamp": "2026-05-30 07:21:39.031184", "user_id": "test_user2", "stage": "compress", "latency_ms": 280.28, "prompt_tokens": 262, "completion_tokens": 46, "total_tokens": 308}
+{"timestamp": "2026-05-30 07:21:39.420296", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 384.49, "prompt_tokens": 526, "completion_tokens": 47, "total_tokens": 573}
+{"timestamp": "2026-05-30 07:21:40.142322", "user_id": "test_user2", "stage": "react_agent", "latency_ms": 722.03, "prompt_tokens": 760, "completion_tokens": 111, "total_tokens": 871}

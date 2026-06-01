@@ -48,7 +48,7 @@ if __name__ == '__main__':
         user_input = input('User: ')
         if user_input == 'exit':
             break
-        response = process_message('test_user', user_input)
+        response = process_message('test_user2', user_input)
         print(f'Agent: {response}')
         print('\n' + '-'*50 + '\n')
 
